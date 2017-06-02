@@ -1,0 +1,8 @@
+'label':'car' 'bounding box':(425,308,460,337)
+'label':'car' 'bounding box':(499,362,631,443)
+'label':'car' 'bounding box':(323,337,520,451)
+'label':'car' 'bounding box':(676,380,857,465)
+'label':'car' 'bounding box':(514,393,713,540)
+'label':'rider' 'bounding box':(1024,365,1068,434)
+'label':'motorcycle' 'bounding box':(993,399,1076,453)
+'label':'trailer' 'bounding box':(323,337,520,451)

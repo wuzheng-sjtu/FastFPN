@@ -1,0 +1,4 @@
+'label':'car' 'bounding box':(0,384,127,594)
+'label':'car' 'bounding box':(10,267,599,698)
+'label':'person' 'bounding box':(671,336,799,665)
+'label':'person' 'bounding box':(266,310,432,719)

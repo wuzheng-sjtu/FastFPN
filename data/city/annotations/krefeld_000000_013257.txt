@@ -1,0 +1,2 @@
+'label':'train' 'bounding box':(0,147,669,479)
+'label':'bus' 'bounding box':(611,190,1919,512)

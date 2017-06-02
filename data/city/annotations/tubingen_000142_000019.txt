@@ -1,0 +1,1 @@
+'label':'motorcycle' 'bounding box':(402,461,445,531)

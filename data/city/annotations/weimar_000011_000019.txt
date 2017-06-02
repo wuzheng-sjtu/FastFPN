@@ -1,0 +1,6 @@
+'label':'bus' 'bounding box':(513,262,609,345)
+'label':'bus' 'bounding box':(387,279,445,349)
+'label':'bus' 'bounding box':(426,269,518,349)
+'label':'truck' 'bounding box':(300,285,336,346)
+'label':'bus' 'bounding box':(614,285,803,405)
+'label':'car' 'bounding box':(0,327,91,486)

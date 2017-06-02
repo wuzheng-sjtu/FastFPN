@@ -1,0 +1,1 @@
+'label':'car' 'bounding box':(1082,370,1902,789)

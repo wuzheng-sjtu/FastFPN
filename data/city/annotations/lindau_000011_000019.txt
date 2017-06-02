@@ -1,0 +1,4 @@
+'label':'car' 'bounding box':(1102,503,1146,533)
+'label':'bicycle' 'bounding box':(1391,496,1413,570)
+'label':'rider' 'bounding box':(1377,455,1420,548)
+'label':'car' 'bounding box':(1122,425,1319,617)

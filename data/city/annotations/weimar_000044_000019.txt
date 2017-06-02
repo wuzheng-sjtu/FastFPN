@@ -1,0 +1,1 @@
+'label':'bicycle' 'bounding box':(1690,410,1789,532)

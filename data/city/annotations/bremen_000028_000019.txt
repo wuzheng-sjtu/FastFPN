@@ -1,0 +1,5 @@
+'label':'bicycle' 'bounding box':(970,475,1072,536)
+'label':'rider' 'bounding box':(1003,437,1051,518)
+'label':'person' 'bounding box':(871,446,902,533)
+'label':'person' 'bounding box':(859,433,908,533)
+'label':'person' 'bounding box':(573,386,638,543)

@@ -1,0 +1,2 @@
+'label':'train' 'bounding box':(403,160,2045,468)
+'label':'person' 'bounding box':(142,393,169,468)

@@ -1,0 +1,1 @@
+'label':'truck' 'bounding box':(463,405,612,548)

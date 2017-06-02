@@ -1,0 +1,7 @@
+'label':'person' 'bounding box':(1402,340,1428,405)
+'label':'bicycle' 'bounding box':(1348,352,1440,407)
+'label':'car' 'bounding box':(1455,341,1672,411)
+'label':'car' 'bounding box':(1699,314,2047,552)
+'label':'train' 'bounding box':(768,359,785,386)
+'label':'bus' 'bounding box':(0,162,697,512)
+'label':'car' 'bounding box':(742,342,1196,496)

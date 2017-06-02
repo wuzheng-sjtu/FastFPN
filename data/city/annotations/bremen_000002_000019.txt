@@ -1,0 +1,1 @@
+'label':'person' 'bounding box':(96,411,164,524)

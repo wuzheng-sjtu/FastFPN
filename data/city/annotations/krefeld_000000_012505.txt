@@ -1,0 +1,5 @@
+'label':'bus' 'bounding box':(909,363,1011,431)
+'label':'bus' 'bounding box':(1017,352,1348,434)
+'label':'bicycle' 'bounding box':(1549,395,1609,496)
+'label':'rider' 'bounding box':(636,400,661,461)
+'label':'bicycle' 'bounding box':(635,420,659,464)

@@ -1,0 +1,3 @@
+'label':'person' 'bounding box':(469,406,516,546)
+'label':'person' 'bounding box':(506,408,556,543)
+'label':'person' 'bounding box':(541,403,596,522)
