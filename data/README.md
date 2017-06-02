@@ -1,8 +1,9 @@
-Place your coco in this dir, like
+Place your cityscapes in this dir, like
 
 ```buildoutcfg
 ./data
     ./city
+    	 ./annotations
         ./train
         ./val
 ```
